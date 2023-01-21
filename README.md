@@ -21,3 +21,4 @@ It was made in C with the SDL library, on Windows with the CodeBlocks IDE.
 But I made it compile without the IDE, with a console only.  
   
 ### Preview (youtube video):  
+[![gamePlay](https://img.youtube.com/vi/zSWvxa-MpqQ/0.jpg)](https://www.youtube.com/watch?v=zSWvxa-MpqQ&ab_channel=L%C3%A9oH) 
